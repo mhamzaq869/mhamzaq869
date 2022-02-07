@@ -1,4 +1,4 @@
-[![MasterHead](https://danatec.vn/wp-content/uploads/2021/09/laravel-8.png)]
+[![MasterHead](https://danatec.vn/wp-content/uploads/2021/09/laravel-8.png)]()
 <h1 align="center">Hi 👋, I'm Hamza Mughal</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
 
