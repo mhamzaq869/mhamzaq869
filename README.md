@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://danatec.vn/wp-content/uploads/2021/09/laravel-8.png)]
 <h1 align="center">Hi 👋, I'm Hamza Mughal</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
 
